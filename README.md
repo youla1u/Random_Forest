@@ -20,8 +20,7 @@ Prédire si une entreprise fera faillite ou non à partir du jeu de données `5y
 - Construction de plusieurs modèles en variant :  
   - **Nombre d’arbres (ntree)** : 500, 5000, 3000.  
   - **Nombre de variables testées par split (mtry)** : 4, 8, 16.  
-- Évaluation par l’**erreur OOB (Out of Bag)**.  
-- Résultats obtenus :  
+- Évaluation par l’**erreur OOB (Out of Bag)** de quatre modèles.  
   - `model.1 (500 arbres, mtry=8)` → 16,47%  
   - `model.2 (5000 arbres, mtry=8)` → 16,18%  
   - `model.3 (3000 arbres, mtry=16)` → **15,59% (meilleur modèle)**  

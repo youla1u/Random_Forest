@@ -1,4 +1,4 @@
-# Prédiction de faillite d’entreprises avec Random Forest
+# Prédiction de faillite d’entreprises avec Random Forest 
 
 Projet de **Machine Learning** réalisé par **YOULA Mohamed** le 7 mars 2019.    
 

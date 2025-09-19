@@ -1,6 +1,6 @@
 # Prédiction de faillite d’entreprises avec Random Forest 
 
-Projet de **Machine Learning** réalisé par **YOULA Mohamed** le 7 mars 2019.     
+Projet de **Machine Learning** réalisé par **YOULA Mohamed** le 7 mars 2019.      
  
 ## 🎯 Objectif 
 Prédire si une entreprise fera faillite ou non à partir du jeu de données `5year.arff`, en utilisant la méthode des **forêts aléatoires (Random Forest)** sous **R**.  

@@ -2,10 +2,10 @@
 
 Projet de **Machine Learning** réalisé par **YOULA Mohamed** le 7 mars 2019.  
  
-## 🎯 Objectif 
+## Objectif 
 Prédire si une entreprise fera faillite ou non à partir du jeu de données `5year.arff`, en utilisant la méthode des **forêts aléatoires (Random Forest)** sous **R**.  
 
-## 📊 Étapes principales
+## Étapes principales
 
 ### 1. Prétraitement des données
 - Chargement et nettoyage du dataset (`5910 individus, 64 variables explicatives + 1 variable cible`).  
@@ -39,10 +39,10 @@ Prédire si une entreprise fera faillite ou non à partir du jeu de données `5y
 - Le modèle retenu est **Random Forest (ntree=3000, mtry=16)** avec une **erreur OOB de 15,59%**.  
 - Les variables financières liées à la rentabilité et aux dettes sont les plus déterminantes pour prédire la faillite.  
 
-## 🛠️ Technologies
+## Technologies
 - **R**  
   - `randomForest`  
   - `ggplot2`  
 
-## 📌 Conclusion
+## Conclusion
 Le projet montre que le **Random Forest** est performant pour la prédiction de faillite, après rééquilibrage des classes et optimisation des hyperparamètres.  
